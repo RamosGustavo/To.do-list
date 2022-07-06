@@ -158,7 +158,7 @@ main {
 }
 
 
-@media screen and (max-width:400px) {
+@media screen and (max-width:900px) {
 	#new-task-form {
 		display: flex;
 		flex-direction: column;
